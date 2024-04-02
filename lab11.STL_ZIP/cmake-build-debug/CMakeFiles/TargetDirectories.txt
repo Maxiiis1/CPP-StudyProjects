@@ -1,0 +1,3 @@
+C:/Users/maxfi/Desktop/C/lab11.STL_ZIP/cmake-build-debug/CMakeFiles/lab11_STL_ZIP.dir
+C:/Users/maxfi/Desktop/C/lab11.STL_ZIP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maxfi/Desktop/C/lab11.STL_ZIP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
