@@ -1,0 +1,3 @@
+C:/Users/maxfi/Desktop/C/C++.Lab9.Pool.Allocator/cmake-build-debug/CMakeFiles/C___Lab9_Pool_Allocator.dir
+C:/Users/maxfi/Desktop/C/C++.Lab9.Pool.Allocator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maxfi/Desktop/C/C++.Lab9.Pool.Allocator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
