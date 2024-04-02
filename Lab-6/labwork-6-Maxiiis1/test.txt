@@ -1,0 +1,4 @@
+man_id	Age	Name	Job	
+1	18	Andrew	ITMO	
+2	21	Mike	Carwashing	
+3	12	Alice	NULL	
